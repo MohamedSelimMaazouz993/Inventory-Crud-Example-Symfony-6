@@ -32,7 +32,7 @@
 
 ![delete product](https://user-images.githubusercontent.com/71633887/201484366-9cf44b63-3c70-408b-bccf-505d1878480e.PNG)
 
-### Product Delete :
+### Product Deleted :
 
 ![product deleted](https://user-images.githubusercontent.com/71633887/201484369-404c3ede-329b-4144-88e7-62cc867dc546.PNG)
 
