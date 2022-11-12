@@ -1,5 +1,5 @@
 # Inventory-Crud-Example
- Simple Crud SF
+ Simple Crud PHP Symfony 
 ## Commands used :
 
 ### php bin/console doctrine:database:create
